@@ -1,4 +1,4 @@
-##asterisk
+## asterisk
 
 Une fois ansible configurer nous allons effetuer un clone, pour ce faire nous allons utiliser la commande suivante :
 
